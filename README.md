@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou a 
+    Oie Tudo bem? Eu sou a 
     <a href="https://www.linkedin.com/in/giovanna-azzolini-527941242/">Giovanna Azzolini 😊🌼</a>
   </h1>
   
@@ -47,6 +47,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com :heart: .</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
