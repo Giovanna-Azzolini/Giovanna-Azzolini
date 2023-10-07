@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oie Tudo bem? Me chamo
+    Oie Tudo bem? Eu me chamo
     <a href="https://www.linkedin.com/in/giovanna-azzolini-527941242/">Giovanna Azzolini 😊🌼</a>
   </h1>
   
