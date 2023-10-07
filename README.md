@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora de software e acadêmica em Análise e Desenvolvimento de Sistemas.  <img
+    Sou Desenvolvedora de software buscando uma stack em devOps e acadêmica em Análise e Desenvolvimento de Sistemas.  <img
        
   </p>
   
