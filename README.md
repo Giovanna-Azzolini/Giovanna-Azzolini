@@ -4,6 +4,8 @@
     Oie Tudo bem? Eu me chamo
     <a href="https://www.linkedin.com/in/giovanna-azzolini-527941242/">Giovanna Azzolini 😊🌼</a>
   </h1>
+
+![Untitled ‑ Made with FlexClip(2)](https://github.com/Giovanna-Azzolini/Giovanna-Azzolini/assets/122488274/41311dad-4ecd-4857-bca5-56b8deef8ee6)
   
   <p align="center">
     Sou acadêmica em Análise e Desenvolvimento de Sistemas no 4 período e busco um espacinho no mundo de infarestrutura e automação de processos.  <img
