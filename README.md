@@ -1,18 +1,27 @@
-<div>
-  
-  <h1 align="center">
-    Oie Tudo bem? Eu me chamo
-    <a href="https://www.linkedin.com/in/giovanna-azzolini-527941242/">Giovanna Azzolini 😊🌼</a>
+
+  # Oie , me chamo Giovanna Azzolini, tudo bem? 🌻 
+- 💻 Acadêmica em Análise e Desenvilvimento de Sistemas no 4 semestre.
+- 💘 Uma leve queda por automação de processos (CI/CD).
+- 👩‍💻 Sempre utilizando Pipelines para facilitar .
+- 📖 Focada em Docker e Kubernets.
+- 🐧 Adepta ao nosso querido Pinguim. </a>.</p>
+```terraform
+resource "Devops Engineer" "Giovanna Azzolini" {
+  info = "DevOps de Primeira Viagem"
+  langs = ["Javascript", "Phyton"]
+  areas = [
+    "DevOps",
+    "Automação",
+    "Infraestrutura",
+    "Cloud",
+    "Html e Css para colorir a vida"
+  ]
+}
+```
   </h1>
 
-![Untitled ‑ Made with FlexClip(2)](https://github.com/Giovanna-Azzolini/Giovanna-Azzolini/assets/122488274/41311dad-4ecd-4857-bca5-56b8deef8ee6)
-  
-  <p align="center">
-    Sou acadêmica em Análise e Desenvolvimento de Sistemas no 4 período e busco um espacinho no mundo de infarestrutura e automação de processos.  <img
-       
-  </p>
-  
 
+  
 </div>
 
 <div align="center">
@@ -22,16 +31,17 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-  <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+# Technologies
+<div align="left" valign="top"><br>
+  <img align="left" alt="Apache" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
+  <img align="left" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="left" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="left" alt="Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
+  <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="kubernets" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+  <img align="left" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="left" alt="github" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div><br>
 
@@ -48,5 +58,5 @@
 </div>
 
 <div align="center">
-  <p>Feito com 💜: .</p>
+  <p>Feito com 💜 </p>
  </div>
