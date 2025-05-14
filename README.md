@@ -1,20 +1,19 @@
 
   # Oie , me chamo Giovanna Azzolini, tudo bem? 🌻 
-- 💻 Acadêmica em Análise e Desenvilvimento de Sistemas no 4 semestre.
-- 💘 Uma leve queda por automação de processos (CI/CD).
-- 👩‍💻 Sempre utilizando Pipelines para facilitar .
-- 📖 Focada em Docker e Kubernets.
+- 👩‍💻 AWS Certified.
+- 💘 Participante ativa do evento DevOps Days Fortaleza.
+- 💻 Acadêmica em Análise e Desenvolvimento.
+- 📖 Kubernets, Docker, Terraform.
 - 🐧 Adepta ao nosso querido Pinguim. </a>.</p>
 ```terraform
 resource "Devops Engineer" "Giovanna Azzolini" {
   info = "DevOps de Primeira Viagem"
-  langs = ["Javascript", "Phyton"]
+  langs = ["K8s", "Docker", "Linux"]
   areas = [
     "DevOps",
     "Automação",
     "Infraestrutura",
-    "Cloud",
-    "Html e Css para colorir a vida"
+    "Cloud"
   ]
 }
 ```
