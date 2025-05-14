@@ -1,8 +1,8 @@
 
-  # Oie , me chamo Giovanna Azzolini, tudo bem? 🌻 
-- 👩‍💻 AWS Certified.
-- 💘 Participante ativa do evento DevOps Days Fortaleza.
-- 💻 Acadêmica em Análise e Desenvolvimento.
+  # Oie , me chamo Giovanna Azzolini, tudo bem?  👩🏼‍💻
+- ☑ AWS Certified.
+- 📌 Participante ativa do evento DevOps Days Fortaleza.
+- 💻 Acadêmica em Análise e Desenvolvimento de Sistemas.
 - 📖 Kubernets, Docker, Terraform.
 - 🐧 Adepta ao nosso querido Pinguim. </a>.</p>
 ```terraform
