@@ -1,16 +1,17 @@
 
   # Oie , me chamo Giovanna Azzolini, tudo bem?  👩🏼‍💻
 - ☑ AWS Certified.
-- 📌 Participante ativa do evento DevOps Days Fortaleza.
-- 💻 Acadêmica em Análise e Desenvolvimento de Sistemas.
+- 📌 Participante da organização do evento DevOps Day Fortaleza.
+- 💻 Formada em Análise e Desenvolvimento de Sistemas.
 - 📖 Kubernets, Docker, Terraform.
 - 🐧 Adepta ao nosso querido Pinguim. </a>.</p>
 ```terraform
-resource "Devops Engineer" "Giovanna Azzolini" {
-  info = "DevOps de Primeira Viagem"
-  langs = ["K8s", "Docker", "Linux"]
+resource "Site Reliability Engineer (SRE)" "Giovanna Azzolini" {
+  info = "Automatizando tudo que for possível"
+  langs = ["K8s", "Docker", "Linux", "Terraform"]
   areas = [
     "DevOps",
+    "SRE",
     "Automação",
     "Infraestrutura",
     "Cloud"
